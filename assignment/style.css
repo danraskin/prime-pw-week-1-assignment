@@ -3,10 +3,19 @@ body{
     background-image:url("http://guo.hu/wp-content/uploads/2016/04/Tridacnatma2-300x300.jpg");
     background-size:cover;
 }
-#wrapper{
-    height:1000px;
+#wrapper1{
+    height:2500px;
     width:1300px;
     padding:1% 5%;
+    float:left;
+    clear:left;
+}
+
+#wrapper2{
+    height:2500px;
+    width:1300px;
+    padding:1% 5%;
+    float:right;
 }
 /* Make the header and footer a different color from the background */
 /* Align the h1 containing your name in the center of the header*/
