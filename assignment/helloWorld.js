@@ -1,0 +1,1 @@
+console.log("If I woke to life at one point lulled by Stravinskian lullabies it would create in me that glimmer,that atonal insurrection which would intensify the bodiless composing through my very breathing an a-structuralist memoir of sound. - Will Alexander and Carlos Lara");
